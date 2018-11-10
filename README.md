@@ -7,6 +7,7 @@
 
 <div align="center">
 
+[![Build Status](https://travis-ci.org/team-anything/HelpOff.svg?branch=master)](https://travis-ci.org/team-anything/HelpOff)
 [![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://github.com/inishchith/HelpOff/tree/master)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
@@ -150,4 +151,5 @@ Maharashtra 400068
 ------------------------------------------
 ### Recognition
 
-This repository / project was a part of **[@Hack-n-code Hackathon]('') 2018** where it got recognized as the **best ideation**.
+- This repository / project was a part of **[@Hack-n-code Hackathon]('') 2018** where it got recognized as the **best ideation**.
+- Featured on [ProductHunt](https://www.producthunt.com/posts/help-offline)
